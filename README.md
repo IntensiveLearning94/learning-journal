@@ -8,5 +8,5 @@ I will add my notes here and write a paragraph about growth mindset
 I will add notes here
 
 ### TODO LIST
-- Learn 
-- Publish to the web
+1. Learn 
+2. Publish to the web
