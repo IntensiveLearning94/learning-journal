@@ -1,5 +1,10 @@
 # Tyler Lawson's Learning Journal
 
+I will add my notes here and write a paragraph about growth mindset
+- Stay motivated by listening too speeches about success
+- Maintain personal discpline by always staying on time or ahead
+- Read alot
+
 I will add notes here
 
 ### TODO LIST
