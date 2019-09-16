@@ -2,4 +2,6 @@
 
 ### Tips to follow
 
-`pwd`
+`pwd= print working directory`
+`cd=  change directory`
+
