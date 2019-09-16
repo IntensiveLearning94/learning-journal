@@ -3,5 +3,5 @@
 I will add notes here
 
 ### TODO LIST
--Learn 
--Publish to the web
+- Learn 
+- Publish to the web
