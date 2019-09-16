@@ -6,10 +6,10 @@
 
 `cd`change directory
 
-`file.exe - an executable file, or program.`
+`file.exe` - an executable file, or program.
 
-`file.txt - a plain text file.`
+`file.txt` a plain text file.
 
-`file.png, file.gif` 
+`file.png` file.gif
 
-`file.jpg - an image.`
+`file.jpg` - an image.
