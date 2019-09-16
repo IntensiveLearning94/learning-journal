@@ -32,6 +32,6 @@ Windows and intend to remotely log into another machine then you will need an SS
 
 #### Thoughts on tips
 
-
+The information provided in the lesson 2 reading assignment. Gives you the ability to understand what it is that would happen when using the texts above, such as accessing folders.
 
 
