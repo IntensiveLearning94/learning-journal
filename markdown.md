@@ -10,4 +10,6 @@
 
 `file.txt - a plain text file.`
 
-`file.png, file.gif, file.jpg - an image.`
+`file.png, file.gif, 
+
+file.jpg - an image.`
