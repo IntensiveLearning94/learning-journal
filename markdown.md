@@ -28,7 +28,9 @@ touch `<filename>` create new file
 
 `ls` list content 
 
-Windows and intend to remotely log into another machine then you will need an SSH client. A rather good one is Putty.
+ ### Importance of Editors
+ 
+ I feel that having an editor is a benefit that every developer. Editors allow you to code while provider you with correction that can be made in real time which can decrease the amount of stress an individual may spend on a coding problem.
 
 #### Thoughts on tips
 
