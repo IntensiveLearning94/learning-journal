@@ -19,8 +19,10 @@ I will add my notes here and write a paragraph about growth mindset
 I will add notes here
 
 ### TODO LIST
-1. Learn 
+
+1. Study during days off
 2. Publish to the web
+
 
 ![K9](https://upload.wikimedia.org/wikipedia/commons/f/f3/Belgian_Malinois.jpg)
 
