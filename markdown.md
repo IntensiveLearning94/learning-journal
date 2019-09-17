@@ -28,7 +28,7 @@ touch `<filename>` create new file
 
 `ls` list content 
 
- ### Importance of Editors
+ ## Importance of Editors
  
  I feel that having an editor is a benefit that every developer. Editors have syntax highlighting, extensions,and code completions while coding. This allows the developer to see mistakes that are being made and corrections that need to take place, this enables the developer to decrease time spent on assignment with that help.
 
