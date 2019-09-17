@@ -21,4 +21,5 @@ I will add notes here
 1. Learn 
 2. Publish to the web
 
-![K9] (https://upload.wikimedia.org/wikipedia/commons/f/f3/Belgian_Malinois.jpg)
+![K9] (https://upload.wikimedia.org/wikipedia/commons/f/f3/Belgian_Malinois.jpg) 
+& code
