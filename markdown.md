@@ -32,6 +32,6 @@ Windows and intend to remotely log into another machine then you will need an SS
 
 #### Thoughts on tips
 
-The information provided in the lesson 2 reading assignment. Gives you the ability to understand what it is that would happen when using the texts above, such as accessing folders.
+The information provided in the reading assessment gives you the ability to access and travel through the terminal effectively so that you can see and make changes when necessary changes such as updates, using the name of the content you want to download for instance NodeJS. The biggest part was figuring out how to access information using the terminal you are able to connect your windows OS to Unbuntu this makes it so that Unbuntu can communicate with both side.
 
 
