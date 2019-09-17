@@ -23,7 +23,7 @@ I will add notes here
 
 ![K9] (https://upload.wikimedia.org/wikipedia/commons/f/f3/Belgian_Malinois.jpg) 
 
-*hello world
+* hello world
 
 >hello
 <hello world
