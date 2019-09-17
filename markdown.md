@@ -30,7 +30,7 @@ touch `<filename>` create new file
 
  ### Importance of Editors
  
- I feel that having an editor is a benefit that every developer. Editors allow you to code while provider you with correction that can be made in real time which can decrease the amount of stress an individual may spend on a coding problem.
+ I feel that having an editor is a benefit that every developer. Editors have syntax highlighting, extensions,and code completions while coding. This allows the developer to see mistakes that are being made and corrections that need to take place, this enables the developer to decrease time spent on assignment with that help.
 
 #### Thoughts on tips
 
