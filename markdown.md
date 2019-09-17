@@ -1,6 +1,6 @@
 # Tyler's markdown page
 
-### Tips to follow
+## Tips to follow
 
 `pwd`print working directory
 
