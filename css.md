@@ -12,3 +12,10 @@
     width:500px;}
 
 The above is a very basic way to get your feet in the water in terms of adding color to your site.
+
+Anything with /* symbol*/  will not be interpreted in the browser.
+
+    a{color:rgb(1,2,3);
+    opacity: 0.5;}
+
+    It's a declaritive syntax for defining rules of our web presentation
