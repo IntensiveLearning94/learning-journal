@@ -3,7 +3,7 @@
 Examples
 
 Access the content of the page
--Select the text inside all of th <h1> elements on a page
+-Select the text inside all of the h1 elements on a page
 
 Modify the content of the page 
 -Change the value of class attributes to trigger new CSS rules for those elements
